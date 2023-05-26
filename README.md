@@ -25,7 +25,7 @@ The project highlights the challenges and opportunities in analyzing distracted 
 - Binta Embalo
 
 ## Acknowledgments
-I would like to express our gratitude to State Farm and Kaggle for providing the dataset and supporting this project. Additionally, I would like to thank my program advisors and instructors for their guidance and support throughout the project.
+I would like to express my gratitude to State Farm and Kaggle for providing the dataset and supporting this project. Additionally, I would like to thank my program advisors and instructors for their guidance and support throughout the project.
 
 ## References
 [State Farm Distracted Driver Detection Competition](https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview)
